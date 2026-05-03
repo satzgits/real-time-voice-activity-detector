@@ -1,0 +1,6 @@
+# Requirements for Real-Time Voice Activity Detection
+
+numpy
+librosa
+soundfile
+onnxruntime
